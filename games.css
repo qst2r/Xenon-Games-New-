@@ -128,25 +128,26 @@ footer a {
 }
 
 .game {
-  color: #0000FF;
-  font-family: "Georgia", sans-serif;
+  color: #fff;
+  font-family: "Contrail One", sans-serif;
   text-decoration: none;
-  border: 2px solid #6B83A8;
+  border: 2px solid #262626;
   border-radius: 10px;
   text-decoration-line: none;
-  grid-template-columns: 500px 1fr max-content;
+  grid-template-columns: 200px 1fr max-content;
 }
 
 .game:hover {
   color: #fff;
   background-color: #262626;
-  font-family: "Georgia", sans-serif;
+  font-family: "Contrail One", sans-serif;
   text-decoration: none;
 }
 
 .game a {
   text-decoration: none;
 }
+
 
 .suggest {
   font-size: 15px;
@@ -156,7 +157,7 @@ footer a {
 
 .game img,
 .suggest img {
-  width: 100%;
+  width: 75%;
   border-radius: 20px;
   aspect-ratio: 1 / 1;
 }
