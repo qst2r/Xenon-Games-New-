@@ -4,7 +4,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   margin: 0;
-  color: #0000FF;
+  color: white;
   background-color: black;
   text-align: center;
   font-family: "Georgia", sans-serif;
@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-  color: #0000FF;
+  color: white;
   font-family: "Georgia", sans-serif;
   font-size: 2em;
   margin-block-start: 0.7em;
@@ -26,21 +26,21 @@ h1 {
 }
 
 h2 {
-  color: #0000FF;
+  color: white;
   background-color: black;
   text-align: center;
   font-family: "Georgia", sans-serif;
 }
 
 p {
-  color: #0000FF;
+  color: white;
   font-family: "Contrail One", sans-serif;
   text-decoration: none;
 }
 
 nav a {
   margin: 30px;
-  color: #0000FF;
+  color: white;
   text-align: center;
   text-decoration: none;
   font-family: "Georgia", sans-serif;
@@ -64,7 +64,7 @@ footer {
 
 footer a {
   margin: 20px;
-  color: #0000FF;
+  color: white;
   text-decoration: none;
   font-family: "Georgia", sans-serif;
 }
@@ -82,7 +82,7 @@ footer a {
 
 .time {
   margin: 20px;
-  color: #0000FF;
+  color: white;
   text-align: center;
   text-decoration: none;
   font-family: "Georgia", sans-serif;
@@ -100,7 +100,7 @@ footer a {
 
 .hacks a {
   text-decoration: none;
-  color: #0000FF;
+  color: white;
   font-family: "Georgia", sans-serif;
   display: inline-block;
   width: 500px;
@@ -120,11 +120,11 @@ footer a {
 }
 
 .howtouse {
-  color: #0000FF;
+  color: white;
 }
 
 .howtouse:visited {
-  color: #0000FF;
+  color: white;
 }
 
 .game {
@@ -211,7 +211,7 @@ select#gamesPerPage::after {
 button {
   background-color: black;
   border: 3px solid #6B83A8;
-  color: #0000FF;
+  color: white;
   text-align: center;
   font-family: "Georgia", sans-serif;
 }
